@@ -10,7 +10,7 @@ topbar_template.innerHTML = `
 		<div></div>
 	</div>
 	<div class="col content-center text-center menu hidden">
-		<div><a href="./home.html">Home</a></div>
+		<div><a href="./index.html">Home</a></div>
 		<div><a href="./about.html">About Us</a></div>
 		<div><a href="./contact.html">Contact</a></div>
 	</div>
